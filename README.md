@@ -99,11 +99,3 @@ For each market, which item has the highest environmental impact?
 _Financial Insights_
 
 The impacts of your future efforts for CO2 Emission reductions on profitability will be higher for the customers in PEINE-WOLTORF.
-
-# Code
-This repository code you will find all the code used to explain the concepts presented in the article.
-
-# About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
